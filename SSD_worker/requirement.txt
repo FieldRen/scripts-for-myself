@@ -1,0 +1,4 @@
+nvidia-ml-py
+flask
+poster
+flask_restful
